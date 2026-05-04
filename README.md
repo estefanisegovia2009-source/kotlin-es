@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fundamentos Básicos
 
 ## Objetivo General
@@ -114,6 +113,3 @@ El proyecto incluye un workflow de CI en `.github/workflows/ci.yml` que:
 2. Asegúrate de que todos los tests pasen (`./gradlew test`)
 3. Sube el proyecto a un repositorio GitHub
 4. Verifica que el pipeline de CI pase exitosamente
-=======
-# kotlin-es
->>>>>>> ae009c07d92c1b09654e52dc3b8479096de5ffab
